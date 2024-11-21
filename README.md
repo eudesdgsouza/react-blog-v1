@@ -14,13 +14,6 @@ O **NexusInfo-BlogApp** é um site desenvolvido em **React JS** que permite aos 
 - **Funcionalidade offline**: Postagens são salvas localmente com **localStorage**.  
 - **Design amigável e responsivo**: Interface adaptada para diversos dispositivos.  
 
-## 📸 Capturas de Tela  
-
-### Página Inicial  
-![Screenshot da Página Inicial](./readme-images/inicial.png)  
-
-*(Adicione mais capturas de tela conforme necessário para mostrar outras funcionalidades ou telas do aplicativo.)*  
-
 ## 🛠 Tecnologias Utilizadas  
 
 - **React JS**: Framework JavaScript para construção de interfaces de usuário.  
