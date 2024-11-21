@@ -4,7 +4,7 @@ O **NexusInfo-BlogApp** é um site desenvolvido em **React JS** que permite aos 
 
 ## Deploy
 
-- [Live]()
+- [Live](https://react-blog-v1.vercel.app/)
 
 ## 🌟 Funcionalidades  
 
